@@ -1,8 +1,8 @@
-# Estruturas de Dados 📊
+# Estruturas de Dados 1
 
 Este repositório contém meus estudos, implementações e resoluções de problemas da disciplina de **Estruturas de Dados** da Universidade de Brasília (UnB).
 
-## 🚀 O que você encontrará aqui:
+## O que você encontrará aqui:
 - **Algoritmos de Ordenação:** insertion sort, selection sort, bubble sort.
 - **Resoluções MOJ:** Problemas de maratona e exercícios de lógica do sistema MOJ.
 

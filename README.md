@@ -4,6 +4,7 @@ Este repositório contém meus estudos, implementações e resoluções de probl
 
 ## O que você encontrará aqui:
 - **Algoritmos de Ordenação:** insertion sort, selection sort, bubble sort.
+- **Estruturas de Dados:** pilha e fila e uso de listas encadeadas
 - **Resoluções MOJ:** Problemas de maratona e exercícios de lógica do sistema MOJ.
 
  Em "learning codes", terá os códigos usados como aprendizados iniciais 
